@@ -1,0 +1,8 @@
+=============== Jan 11, 2018 (NZDT) ===============
+17:24:45.239852 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:24:45.240311 db@open opening
+17:24:45.243023 version@stat F·[] S·0B[] Sc·[]
+17:24:45.243217 db@janitor F·2 G·0
+17:24:45.243246 db@open done T·2.912129ms
+17:25:13.292735 db@close closing
+17:25:13.293034 db@close done T·296.286µs
